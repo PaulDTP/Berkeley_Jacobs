@@ -1,2 +1,2 @@
 # dsdiscovery
-WiTi @ Jacobs
+WITI @ Jacobs
